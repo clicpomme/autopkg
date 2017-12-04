@@ -46,6 +46,8 @@
                 <string>%pathname%</string>
                 <key>repo_subdirectory</key>
                 <string>%MUNKI_REPO_SUBDIR%</string>
+				<key>munkiimport_pkgname</key>
+                <string>%MAKEPKGINFO_PKGNAME%</string>
             </dict>
             <key>Processor</key>
             <string>MunkiImporter</string>
